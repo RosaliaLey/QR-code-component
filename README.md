@@ -21,7 +21,7 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rosalialey.github.io/QR-code-component/](https://rosalialey.github.io/QR-code-component/)
 
 ### Built with
 
@@ -32,7 +32,6 @@ The challenge is to build out this QR code component and get it looking as close
 ## Author
 
 - Website - [Rosalia Ley](https://github.com/RosaliaLey)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Email - [rosalia@rosalialey.com](rosalia@rosalialey.com)
 
 
