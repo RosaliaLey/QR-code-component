@@ -28,7 +28,7 @@ body {
     background-color: var(--white);
     padding: 1em;
     border-radius: 1.5em;
-    width: 20em;
+    max-width: 20em;
     box-shadow: 5px 5px 25px lightgray;
 }
 
